@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "tareas"
+  "defaultProject": "tareas",
+  "cli": {
+    "analytics": "124aa8c5-bbc6-447d-95bb-d4d39ca5012e"
+  }
 }
